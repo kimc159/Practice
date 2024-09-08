@@ -14,6 +14,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {/* 주석추가 */}
+        {/* juyeol 주석추가 */}
         <Navigation />
         {children}
       </body>
