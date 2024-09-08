@@ -14,6 +14,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {/* 주석추가 */}
+        {/* 주석추가2 */}
         <Navigation />
         {children}
       </body>
