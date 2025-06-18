@@ -10,7 +10,7 @@ export default function aboutUs() {
     let bb = 0;
 
     if(true == true) {
-        bb = 1;
+        bb = 1; // 추가수정
     }
     
     return <h1>about us </h1>
